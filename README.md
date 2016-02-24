@@ -1,6 +1,8 @@
 Freelancer Jekyll theme
 =========================
 
+[![Join the chat at https://gitter.im/chethanphoenix/chethanphoenix.github.io](https://badges.gitter.im/chethanphoenix/chethanphoenix.github.io.svg)](https://gitter.im/chethanphoenix/chethanphoenix.github.io?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Jekyll theme based on [Freelancer bootstrap theme ](http://startbootstrap.com/templates/freelancer/)
 
 ## How to use
